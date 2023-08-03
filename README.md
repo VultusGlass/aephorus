@@ -1,6 +1,10 @@
 # Aephorus
 Simple, pixelish, cartoonish and vibrant texture pack.
+Created by VultusGlass.
 
-Support all default Minetest Game mods.
+##Game Support:
+- Minetest_Game
 
-Made by VultusGlass.
+##Addtitional Supported Mods:
+- nextgen_bows
+- moreores
