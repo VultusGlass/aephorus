@@ -2,9 +2,10 @@
 Simple, pixelish, cartoonish and vibrant texture pack.
 Created by VultusGlass.
 
-##Game Support:
+## Game Support:
 - Minetest_Game
 
-##Addtitional Supported Mods:
+## Addtitional Supported Mods:
 - nextgen_bows
 - moreores
+- 3d armor
