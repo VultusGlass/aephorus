@@ -8,4 +8,4 @@ Created by VultusGlass.
 ## Addtitional Supported Mods:
 - nextgen_bows
 - moreores
-- 3d armor
+- 3d armor (partial)
